@@ -1,6 +1,6 @@
 # Flappy-Bird-using-Neural-Network
 
-# Preview of the Game
+## Preview of the Game
 ![GIFMaker_me](https://github.com/manan152003/Flappy-Bird-using-Neural-Network/assets/99275086/fb5ae287-2dc4-4138-aadf-2db796fcf349)
 
 ## Installation
@@ -11,13 +11,13 @@ To run this Flappy Bird Game on your local machine, follow these steps:
 
 * Clone the repository using the command below :
 ```bash
-git clone https://github.com/manan152003/Flappy-Bird-using-Neural-Network.git
+git clone https://github.com/manan152003/Flappy-Bird-AI.git
 
 ```
 
 * Move into the directory where we have the project files : 
 ```bash
-cd Flappy-Bird-using-Neural-Network
+cd Flappy-Bird-AI
 
 ```
 
