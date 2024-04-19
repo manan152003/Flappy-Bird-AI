@@ -1,6 +1,7 @@
 # Flappy-Bird-using-Neural-Network
 
-
+# Preview of the Game
+![GIFMaker_me](https://github.com/manan152003/Flappy-Bird-using-Neural-Network/assets/99275086/fb5ae287-2dc4-4138-aadf-2db796fcf349)
 
 ## Installation
 
